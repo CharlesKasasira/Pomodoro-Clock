@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Pomodoro-Clock/static/css/main.78dcf917.css",
-    "main.js": "/Pomodoro-Clock/static/js/main.0b752aed.js",
-    "static/media/wronger-rave-hit.wav": "/Pomodoro-Clock/static/media/wronger-rave-hit.83b1d0e99e104ef28de0.wav",
+    "main.css": "/Pomodoro-Clock/static/css/main.0fa4dc07.css",
+    "main.js": "/Pomodoro-Clock/static/js/main.46f10883.js",
+    "static/media/beep.mp3": "/Pomodoro-Clock/static/media/beep.d75049c3f83705934590.mp3",
     "index.html": "/Pomodoro-Clock/index.html",
-    "main.78dcf917.css.map": "/Pomodoro-Clock/static/css/main.78dcf917.css.map",
-    "main.0b752aed.js.map": "/Pomodoro-Clock/static/js/main.0b752aed.js.map"
+    "main.0fa4dc07.css.map": "/Pomodoro-Clock/static/css/main.0fa4dc07.css.map",
+    "main.46f10883.js.map": "/Pomodoro-Clock/static/js/main.46f10883.js.map"
   },
   "entrypoints": [
-    "static/css/main.78dcf917.css",
-    "static/js/main.0b752aed.js"
+    "static/css/main.0fa4dc07.css",
+    "static/js/main.46f10883.js"
   ]
 }
